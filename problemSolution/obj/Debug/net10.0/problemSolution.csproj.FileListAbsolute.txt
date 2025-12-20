@@ -1,0 +1,14 @@
+D:\VisualStudioProject\problemSolution\bin\Debug\net10.0\problemSolution.exe
+D:\VisualStudioProject\problemSolution\bin\Debug\net10.0\problemSolution.deps.json
+D:\VisualStudioProject\problemSolution\bin\Debug\net10.0\problemSolution.runtimeconfig.json
+D:\VisualStudioProject\problemSolution\bin\Debug\net10.0\problemSolution.dll
+D:\VisualStudioProject\problemSolution\bin\Debug\net10.0\problemSolution.pdb
+D:\VisualStudioProject\problemSolution\obj\Debug\net10.0\problemSolution.GeneratedMSBuildEditorConfig.editorconfig
+D:\VisualStudioProject\problemSolution\obj\Debug\net10.0\problemSolution.AssemblyInfoInputs.cache
+D:\VisualStudioProject\problemSolution\obj\Debug\net10.0\problemSolution.AssemblyInfo.cs
+D:\VisualStudioProject\problemSolution\obj\Debug\net10.0\problemSolution.csproj.CoreCompileInputs.cache
+D:\VisualStudioProject\problemSolution\obj\Debug\net10.0\problemSolution.dll
+D:\VisualStudioProject\problemSolution\obj\Debug\net10.0\refint\problemSolution.dll
+D:\VisualStudioProject\problemSolution\obj\Debug\net10.0\problemSolution.pdb
+D:\VisualStudioProject\problemSolution\obj\Debug\net10.0\problemSolution.genruntimeconfig.cache
+D:\VisualStudioProject\problemSolution\obj\Debug\net10.0\ref\problemSolution.dll
