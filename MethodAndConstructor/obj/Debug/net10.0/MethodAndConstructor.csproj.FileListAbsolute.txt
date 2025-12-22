@@ -1,0 +1,15 @@
+D:\VisualStudioProject\MethodAndConstructor\obj\Debug\net10.0\MethodAndConstructor.GeneratedMSBuildEditorConfig.editorconfig
+D:\VisualStudioProject\MethodAndConstructor\obj\Debug\net10.0\MethodAndConstructor.AssemblyInfoInputs.cache
+D:\VisualStudioProject\MethodAndConstructor\obj\Debug\net10.0\MethodAndConstructor.AssemblyInfo.cs
+D:\VisualStudioProject\MethodAndConstructor\obj\Debug\net10.0\MethodAndConstructor.csproj.CoreCompileInputs.cache
+D:\VisualStudioProject\MethodAndConstructor\obj\Debug\net10.0\MethodAndConstructor.sourcelink.json
+D:\VisualStudioProject\MethodAndConstructor\bin\Debug\net10.0\MethodAndConstructor.exe
+D:\VisualStudioProject\MethodAndConstructor\bin\Debug\net10.0\MethodAndConstructor.deps.json
+D:\VisualStudioProject\MethodAndConstructor\bin\Debug\net10.0\MethodAndConstructor.runtimeconfig.json
+D:\VisualStudioProject\MethodAndConstructor\bin\Debug\net10.0\MethodAndConstructor.dll
+D:\VisualStudioProject\MethodAndConstructor\bin\Debug\net10.0\MethodAndConstructor.pdb
+D:\VisualStudioProject\MethodAndConstructor\obj\Debug\net10.0\MethodAndConstructor.dll
+D:\VisualStudioProject\MethodAndConstructor\obj\Debug\net10.0\refint\MethodAndConstructor.dll
+D:\VisualStudioProject\MethodAndConstructor\obj\Debug\net10.0\MethodAndConstructor.pdb
+D:\VisualStudioProject\MethodAndConstructor\obj\Debug\net10.0\MethodAndConstructor.genruntimeconfig.cache
+D:\VisualStudioProject\MethodAndConstructor\obj\Debug\net10.0\ref\MethodAndConstructor.dll
