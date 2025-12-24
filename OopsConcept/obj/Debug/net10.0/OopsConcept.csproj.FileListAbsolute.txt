@@ -1,0 +1,15 @@
+D:\VisualStudioProject\OopsConcept\obj\Debug\net10.0\OopsConcept.GeneratedMSBuildEditorConfig.editorconfig
+D:\VisualStudioProject\OopsConcept\obj\Debug\net10.0\OopsConcept.AssemblyInfoInputs.cache
+D:\VisualStudioProject\OopsConcept\obj\Debug\net10.0\OopsConcept.AssemblyInfo.cs
+D:\VisualStudioProject\OopsConcept\obj\Debug\net10.0\OopsConcept.csproj.CoreCompileInputs.cache
+D:\VisualStudioProject\OopsConcept\obj\Debug\net10.0\OopsConcept.sourcelink.json
+D:\VisualStudioProject\OopsConcept\bin\Debug\net10.0\OopsConcept.exe
+D:\VisualStudioProject\OopsConcept\bin\Debug\net10.0\OopsConcept.deps.json
+D:\VisualStudioProject\OopsConcept\bin\Debug\net10.0\OopsConcept.runtimeconfig.json
+D:\VisualStudioProject\OopsConcept\bin\Debug\net10.0\OopsConcept.dll
+D:\VisualStudioProject\OopsConcept\bin\Debug\net10.0\OopsConcept.pdb
+D:\VisualStudioProject\OopsConcept\obj\Debug\net10.0\OopsConcept.dll
+D:\VisualStudioProject\OopsConcept\obj\Debug\net10.0\refint\OopsConcept.dll
+D:\VisualStudioProject\OopsConcept\obj\Debug\net10.0\OopsConcept.pdb
+D:\VisualStudioProject\OopsConcept\obj\Debug\net10.0\OopsConcept.genruntimeconfig.cache
+D:\VisualStudioProject\OopsConcept\obj\Debug\net10.0\ref\OopsConcept.dll
