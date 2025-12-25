@@ -33,6 +33,5 @@ class Program
     int number3, number4, result;
     cal3.Additon(number1,number2,out number3,out number4,out result);
     Console.WriteLine($"Value of the number1 is {number1} , number 2 is {number2} , number 3 is {number3} , number4 is {number4},result is {result}");
-
   }
 }
