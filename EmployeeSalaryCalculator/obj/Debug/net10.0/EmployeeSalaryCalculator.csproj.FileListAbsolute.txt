@@ -1,0 +1,15 @@
+D:\VisualStudioProject\EmployeeSalaryCalculator\bin\Debug\net10.0\EmployeeSalaryCalculator.exe
+D:\VisualStudioProject\EmployeeSalaryCalculator\bin\Debug\net10.0\EmployeeSalaryCalculator.deps.json
+D:\VisualStudioProject\EmployeeSalaryCalculator\bin\Debug\net10.0\EmployeeSalaryCalculator.runtimeconfig.json
+D:\VisualStudioProject\EmployeeSalaryCalculator\bin\Debug\net10.0\EmployeeSalaryCalculator.dll
+D:\VisualStudioProject\EmployeeSalaryCalculator\bin\Debug\net10.0\EmployeeSalaryCalculator.pdb
+D:\VisualStudioProject\EmployeeSalaryCalculator\obj\Debug\net10.0\EmployeeSalaryCalculator.GeneratedMSBuildEditorConfig.editorconfig
+D:\VisualStudioProject\EmployeeSalaryCalculator\obj\Debug\net10.0\EmployeeSalaryCalculator.AssemblyInfoInputs.cache
+D:\VisualStudioProject\EmployeeSalaryCalculator\obj\Debug\net10.0\EmployeeSalaryCalculator.AssemblyInfo.cs
+D:\VisualStudioProject\EmployeeSalaryCalculator\obj\Debug\net10.0\EmployeeSalaryCalculator.csproj.CoreCompileInputs.cache
+D:\VisualStudioProject\EmployeeSalaryCalculator\obj\Debug\net10.0\EmployeeSalaryCalculator.sourcelink.json
+D:\VisualStudioProject\EmployeeSalaryCalculator\obj\Debug\net10.0\EmployeeSalaryCalculator.dll
+D:\VisualStudioProject\EmployeeSalaryCalculator\obj\Debug\net10.0\refint\EmployeeSalaryCalculator.dll
+D:\VisualStudioProject\EmployeeSalaryCalculator\obj\Debug\net10.0\EmployeeSalaryCalculator.pdb
+D:\VisualStudioProject\EmployeeSalaryCalculator\obj\Debug\net10.0\EmployeeSalaryCalculator.genruntimeconfig.cache
+D:\VisualStudioProject\EmployeeSalaryCalculator\obj\Debug\net10.0\ref\EmployeeSalaryCalculator.dll
