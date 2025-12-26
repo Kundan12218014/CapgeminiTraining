@@ -1,0 +1,15 @@
+D:\VisualStudioProject\AdvanceCSharp\obj\Debug\net10.0\AdvanceCSharp.GeneratedMSBuildEditorConfig.editorconfig
+D:\VisualStudioProject\AdvanceCSharp\obj\Debug\net10.0\AdvanceCSharp.AssemblyInfoInputs.cache
+D:\VisualStudioProject\AdvanceCSharp\obj\Debug\net10.0\AdvanceCSharp.AssemblyInfo.cs
+D:\VisualStudioProject\AdvanceCSharp\obj\Debug\net10.0\AdvanceCSharp.csproj.CoreCompileInputs.cache
+D:\VisualStudioProject\AdvanceCSharp\obj\Debug\net10.0\AdvanceCSharp.sourcelink.json
+D:\VisualStudioProject\AdvanceCSharp\bin\Debug\net10.0\AdvanceCSharp.exe
+D:\VisualStudioProject\AdvanceCSharp\bin\Debug\net10.0\AdvanceCSharp.deps.json
+D:\VisualStudioProject\AdvanceCSharp\bin\Debug\net10.0\AdvanceCSharp.runtimeconfig.json
+D:\VisualStudioProject\AdvanceCSharp\bin\Debug\net10.0\AdvanceCSharp.dll
+D:\VisualStudioProject\AdvanceCSharp\bin\Debug\net10.0\AdvanceCSharp.pdb
+D:\VisualStudioProject\AdvanceCSharp\obj\Debug\net10.0\AdvanceCSharp.dll
+D:\VisualStudioProject\AdvanceCSharp\obj\Debug\net10.0\refint\AdvanceCSharp.dll
+D:\VisualStudioProject\AdvanceCSharp\obj\Debug\net10.0\AdvanceCSharp.pdb
+D:\VisualStudioProject\AdvanceCSharp\obj\Debug\net10.0\AdvanceCSharp.genruntimeconfig.cache
+D:\VisualStudioProject\AdvanceCSharp\obj\Debug\net10.0\ref\AdvanceCSharp.dll
