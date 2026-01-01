@@ -1,0 +1,15 @@
+D:\VisualStudioProject\DAY10(30-12-2025)\QuestionPractice\obj\Debug\net10.0\QuestionPractice.GeneratedMSBuildEditorConfig.editorconfig
+D:\VisualStudioProject\DAY10(30-12-2025)\QuestionPractice\obj\Debug\net10.0\QuestionPractice.AssemblyInfoInputs.cache
+D:\VisualStudioProject\DAY10(30-12-2025)\QuestionPractice\obj\Debug\net10.0\QuestionPractice.AssemblyInfo.cs
+D:\VisualStudioProject\DAY10(30-12-2025)\QuestionPractice\obj\Debug\net10.0\QuestionPractice.csproj.CoreCompileInputs.cache
+D:\VisualStudioProject\DAY10(30-12-2025)\QuestionPractice\obj\Debug\net10.0\QuestionPractice.sourcelink.json
+D:\VisualStudioProject\DAY10(30-12-2025)\QuestionPractice\bin\Debug\net10.0\QuestionPractice.exe
+D:\VisualStudioProject\DAY10(30-12-2025)\QuestionPractice\bin\Debug\net10.0\QuestionPractice.deps.json
+D:\VisualStudioProject\DAY10(30-12-2025)\QuestionPractice\bin\Debug\net10.0\QuestionPractice.runtimeconfig.json
+D:\VisualStudioProject\DAY10(30-12-2025)\QuestionPractice\bin\Debug\net10.0\QuestionPractice.dll
+D:\VisualStudioProject\DAY10(30-12-2025)\QuestionPractice\bin\Debug\net10.0\QuestionPractice.pdb
+D:\VisualStudioProject\DAY10(30-12-2025)\QuestionPractice\obj\Debug\net10.0\QuestionPractice.dll
+D:\VisualStudioProject\DAY10(30-12-2025)\QuestionPractice\obj\Debug\net10.0\refint\QuestionPractice.dll
+D:\VisualStudioProject\DAY10(30-12-2025)\QuestionPractice\obj\Debug\net10.0\QuestionPractice.pdb
+D:\VisualStudioProject\DAY10(30-12-2025)\QuestionPractice\obj\Debug\net10.0\QuestionPractice.genruntimeconfig.cache
+D:\VisualStudioProject\DAY10(30-12-2025)\QuestionPractice\obj\Debug\net10.0\ref\QuestionPractice.dll
