@@ -1,0 +1,15 @@
+D:\VisualStudioProject\DAY20(14-01-2026)\StudentGradeChangeNotification\bin\Debug\net10.0\StudentGradeChangeNotification.exe
+D:\VisualStudioProject\DAY20(14-01-2026)\StudentGradeChangeNotification\bin\Debug\net10.0\StudentGradeChangeNotification.deps.json
+D:\VisualStudioProject\DAY20(14-01-2026)\StudentGradeChangeNotification\bin\Debug\net10.0\StudentGradeChangeNotification.runtimeconfig.json
+D:\VisualStudioProject\DAY20(14-01-2026)\StudentGradeChangeNotification\bin\Debug\net10.0\StudentGradeChangeNotification.dll
+D:\VisualStudioProject\DAY20(14-01-2026)\StudentGradeChangeNotification\bin\Debug\net10.0\StudentGradeChangeNotification.pdb
+D:\VisualStudioProject\DAY20(14-01-2026)\StudentGradeChangeNotification\obj\Debug\net10.0\StudentGradeChangeNotification.GeneratedMSBuildEditorConfig.editorconfig
+D:\VisualStudioProject\DAY20(14-01-2026)\StudentGradeChangeNotification\obj\Debug\net10.0\StudentGradeChangeNotification.AssemblyInfoInputs.cache
+D:\VisualStudioProject\DAY20(14-01-2026)\StudentGradeChangeNotification\obj\Debug\net10.0\StudentGradeChangeNotification.AssemblyInfo.cs
+D:\VisualStudioProject\DAY20(14-01-2026)\StudentGradeChangeNotification\obj\Debug\net10.0\StudentGradeChangeNotification.csproj.CoreCompileInputs.cache
+D:\VisualStudioProject\DAY20(14-01-2026)\StudentGradeChangeNotification\obj\Debug\net10.0\StudentGradeChangeNotification.sourcelink.json
+D:\VisualStudioProject\DAY20(14-01-2026)\StudentGradeChangeNotification\obj\Debug\net10.0\StudentGradeChangeNotification.dll
+D:\VisualStudioProject\DAY20(14-01-2026)\StudentGradeChangeNotification\obj\Debug\net10.0\refint\StudentGradeChangeNotification.dll
+D:\VisualStudioProject\DAY20(14-01-2026)\StudentGradeChangeNotification\obj\Debug\net10.0\StudentGradeChangeNotification.pdb
+D:\VisualStudioProject\DAY20(14-01-2026)\StudentGradeChangeNotification\obj\Debug\net10.0\StudentGradeChangeNotification.genruntimeconfig.cache
+D:\VisualStudioProject\DAY20(14-01-2026)\StudentGradeChangeNotification\obj\Debug\net10.0\ref\StudentGradeChangeNotification.dll
