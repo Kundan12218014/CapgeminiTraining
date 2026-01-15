@@ -1,0 +1,15 @@
+D:\VisualStudioProject\DAY20(14-01-2026)\StudentLogger\obj\Debug\net10.0\StudentLogger.GeneratedMSBuildEditorConfig.editorconfig
+D:\VisualStudioProject\DAY20(14-01-2026)\StudentLogger\obj\Debug\net10.0\StudentLogger.AssemblyInfoInputs.cache
+D:\VisualStudioProject\DAY20(14-01-2026)\StudentLogger\obj\Debug\net10.0\StudentLogger.AssemblyInfo.cs
+D:\VisualStudioProject\DAY20(14-01-2026)\StudentLogger\obj\Debug\net10.0\StudentLogger.csproj.CoreCompileInputs.cache
+D:\VisualStudioProject\DAY20(14-01-2026)\StudentLogger\obj\Debug\net10.0\StudentLogger.sourcelink.json
+D:\VisualStudioProject\DAY20(14-01-2026)\StudentLogger\bin\Debug\net10.0\StudentLogger.exe
+D:\VisualStudioProject\DAY20(14-01-2026)\StudentLogger\bin\Debug\net10.0\StudentLogger.deps.json
+D:\VisualStudioProject\DAY20(14-01-2026)\StudentLogger\bin\Debug\net10.0\StudentLogger.runtimeconfig.json
+D:\VisualStudioProject\DAY20(14-01-2026)\StudentLogger\bin\Debug\net10.0\StudentLogger.dll
+D:\VisualStudioProject\DAY20(14-01-2026)\StudentLogger\bin\Debug\net10.0\StudentLogger.pdb
+D:\VisualStudioProject\DAY20(14-01-2026)\StudentLogger\obj\Debug\net10.0\StudentLogger.dll
+D:\VisualStudioProject\DAY20(14-01-2026)\StudentLogger\obj\Debug\net10.0\refint\StudentLogger.dll
+D:\VisualStudioProject\DAY20(14-01-2026)\StudentLogger\obj\Debug\net10.0\StudentLogger.pdb
+D:\VisualStudioProject\DAY20(14-01-2026)\StudentLogger\obj\Debug\net10.0\StudentLogger.genruntimeconfig.cache
+D:\VisualStudioProject\DAY20(14-01-2026)\StudentLogger\obj\Debug\net10.0\ref\StudentLogger.dll

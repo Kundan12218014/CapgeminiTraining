@@ -1,0 +1,15 @@
+D:\VisualStudioProject\DAY20(14-01-2026)\ErrorLoggerApp\obj\Debug\net10.0\ErrorLoggerApp.GeneratedMSBuildEditorConfig.editorconfig
+D:\VisualStudioProject\DAY20(14-01-2026)\ErrorLoggerApp\obj\Debug\net10.0\ErrorLoggerApp.AssemblyInfoInputs.cache
+D:\VisualStudioProject\DAY20(14-01-2026)\ErrorLoggerApp\obj\Debug\net10.0\ErrorLoggerApp.AssemblyInfo.cs
+D:\VisualStudioProject\DAY20(14-01-2026)\ErrorLoggerApp\obj\Debug\net10.0\ErrorLoggerApp.csproj.CoreCompileInputs.cache
+D:\VisualStudioProject\DAY20(14-01-2026)\ErrorLoggerApp\obj\Debug\net10.0\ErrorLoggerApp.sourcelink.json
+D:\VisualStudioProject\DAY20(14-01-2026)\ErrorLoggerApp\bin\Debug\net10.0\ErrorLoggerApp.exe
+D:\VisualStudioProject\DAY20(14-01-2026)\ErrorLoggerApp\bin\Debug\net10.0\ErrorLoggerApp.deps.json
+D:\VisualStudioProject\DAY20(14-01-2026)\ErrorLoggerApp\bin\Debug\net10.0\ErrorLoggerApp.runtimeconfig.json
+D:\VisualStudioProject\DAY20(14-01-2026)\ErrorLoggerApp\bin\Debug\net10.0\ErrorLoggerApp.dll
+D:\VisualStudioProject\DAY20(14-01-2026)\ErrorLoggerApp\bin\Debug\net10.0\ErrorLoggerApp.pdb
+D:\VisualStudioProject\DAY20(14-01-2026)\ErrorLoggerApp\obj\Debug\net10.0\ErrorLoggerApp.dll
+D:\VisualStudioProject\DAY20(14-01-2026)\ErrorLoggerApp\obj\Debug\net10.0\refint\ErrorLoggerApp.dll
+D:\VisualStudioProject\DAY20(14-01-2026)\ErrorLoggerApp\obj\Debug\net10.0\ErrorLoggerApp.pdb
+D:\VisualStudioProject\DAY20(14-01-2026)\ErrorLoggerApp\obj\Debug\net10.0\ErrorLoggerApp.genruntimeconfig.cache
+D:\VisualStudioProject\DAY20(14-01-2026)\ErrorLoggerApp\obj\Debug\net10.0\ref\ErrorLoggerApp.dll

@@ -1,0 +1,15 @@
+D:\VisualStudioProject\DAY20(14-01-2026)\EmployeeRecordManagerApp\obj\Debug\net10.0\EmployeeRecordManagerApp.GeneratedMSBuildEditorConfig.editorconfig
+D:\VisualStudioProject\DAY20(14-01-2026)\EmployeeRecordManagerApp\obj\Debug\net10.0\EmployeeRecordManagerApp.AssemblyInfoInputs.cache
+D:\VisualStudioProject\DAY20(14-01-2026)\EmployeeRecordManagerApp\obj\Debug\net10.0\EmployeeRecordManagerApp.AssemblyInfo.cs
+D:\VisualStudioProject\DAY20(14-01-2026)\EmployeeRecordManagerApp\obj\Debug\net10.0\EmployeeRecordManagerApp.csproj.CoreCompileInputs.cache
+D:\VisualStudioProject\DAY20(14-01-2026)\EmployeeRecordManagerApp\obj\Debug\net10.0\EmployeeRecordManagerApp.sourcelink.json
+D:\VisualStudioProject\DAY20(14-01-2026)\EmployeeRecordManagerApp\bin\Debug\net10.0\EmployeeRecordManagerApp.exe
+D:\VisualStudioProject\DAY20(14-01-2026)\EmployeeRecordManagerApp\bin\Debug\net10.0\EmployeeRecordManagerApp.deps.json
+D:\VisualStudioProject\DAY20(14-01-2026)\EmployeeRecordManagerApp\bin\Debug\net10.0\EmployeeRecordManagerApp.runtimeconfig.json
+D:\VisualStudioProject\DAY20(14-01-2026)\EmployeeRecordManagerApp\bin\Debug\net10.0\EmployeeRecordManagerApp.dll
+D:\VisualStudioProject\DAY20(14-01-2026)\EmployeeRecordManagerApp\bin\Debug\net10.0\EmployeeRecordManagerApp.pdb
+D:\VisualStudioProject\DAY20(14-01-2026)\EmployeeRecordManagerApp\obj\Debug\net10.0\EmployeeRecordManagerApp.dll
+D:\VisualStudioProject\DAY20(14-01-2026)\EmployeeRecordManagerApp\obj\Debug\net10.0\refint\EmployeeRecordManagerApp.dll
+D:\VisualStudioProject\DAY20(14-01-2026)\EmployeeRecordManagerApp\obj\Debug\net10.0\EmployeeRecordManagerApp.pdb
+D:\VisualStudioProject\DAY20(14-01-2026)\EmployeeRecordManagerApp\obj\Debug\net10.0\EmployeeRecordManagerApp.genruntimeconfig.cache
+D:\VisualStudioProject\DAY20(14-01-2026)\EmployeeRecordManagerApp\obj\Debug\net10.0\ref\EmployeeRecordManagerApp.dll

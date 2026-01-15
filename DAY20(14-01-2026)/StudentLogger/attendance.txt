@@ -1,0 +1,6 @@
+14-01-2026 | 1 | shail | absent
+14-01-2026 | 2 | shubham | present
+14-01-2026 | 1 | kundan | present
+14-01-2026 | 1 | kundankumar | present
+14-01-2026 | 1 | anand raj | absent
+14-01-2026 | 3 | sahil shkher | absent
