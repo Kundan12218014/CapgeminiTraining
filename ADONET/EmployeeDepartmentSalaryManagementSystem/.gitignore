@@ -1,0 +1,39 @@
+# Compiled binaries
+*.exe
+*.dll
+*.pdb
+
+# Build folders
+bin/
+obj/
+properties/
+App.*
+# properties/*.cs
+
+
+# Visual Studio files
+.vs/
+*.user
+*.suo
+*.userosscache
+*.sln.docstates
+*.csproj
+*.slnx
+.gitignore
+
+
+# VS Code files
+.vscode/
+
+# Ignore everything in this folder
+*
+
+# Allow directories to search for files inside
+
+
+# Allow .cs files
+!*.cs
+
+# Allow the .gitignore file itself
+!.gitignore
+
